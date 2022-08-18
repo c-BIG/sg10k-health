@@ -1,0 +1,2 @@
+# sg10k-health
+the National Precision Medicine (NPM) program represents a whole-of-government ten-year strategy to establish precision medicine as a peak of research excellence for Singapore. Phase I (2017-2021) was a "proof-of-concept" phase demonstrating the feasibility of large-scale genomic data generation with linkage to electronic health data. A headline deliverable of NPM Phase I was generating a genomic reference database of 10,000 healthy Singaporeans (SG10K_Health).
